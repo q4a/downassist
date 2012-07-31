@@ -1,0 +1,8 @@
+/test/
+/plugin/Release/
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.o
+*.res
